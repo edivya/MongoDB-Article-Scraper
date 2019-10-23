@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/images/sand.jpg);
+    /* background-image: url(/assets/images/sand.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     /* width: 100vw; */
@@ -28,7 +28,7 @@ h1 {
 
 .nav-link,
 .navbar-brand {
-    color: white;
+    color: rgb(143, 82, 82);
     
 }
 
@@ -73,16 +73,6 @@ a:hover {
     margin-top: 0%;
 }
 
-footer {
-    background-image: url(/assets/images/meditation.jpg);
-    height: 50px;
-    margin-left: 15px;
-    text-align: center;
-    color: white;
-    font-weight: bolder;
-   
-}
-
 .deleteNote {
 	display: inline-block;
 }
@@ -92,8 +82,8 @@ footer {
     width: 90%
 }
 
-.modal-header, .modal-footer {
-    background-image: url(/assets/images/sand3.jpg);
+.modal-header {
+    background-image: url(/assets/images/sand.jpg);
 }
 
 .modal-title {

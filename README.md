@@ -6,7 +6,10 @@
 ## Overview 
 
 An app that scrapes articles from the GreenMedInfo website and lets users save articles and leave comments on the latest news.
-[MongoDB-Article-Scraper](https://github.com/edivya/MongoDB-Article-Scraper/blob/master/public/assets/images/Scraper.jpg)
+
+## Screenshots
+
+![MongoDB-Article-Scraper](https://github.com/edivya/MongoDB-Article-Scraper/blob/master/public/assets/images/Scraper.jpg)
 
 ## How It Works
 

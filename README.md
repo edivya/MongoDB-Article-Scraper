@@ -1,11 +1,12 @@
-# MongoDB-Article-Scraperhttps://mongodb-article-scraper-divya.herokuapp.com
+# MongoDB-Article-Scraper
+(https://mongodb-article-scraper-divya.herokuapp.com)
 
 ## Holistic Health Edition 
 
 ## Overview 
 
 An app that scrapes articles from the GreenMedInfo website and lets users save articles and leave comments on the latest news.
-(https://github.com/edivya/MongoDB-Article-Scraper/blob/master/public/assets/images/Scraper.jpg)
+[MongoDB-Article-Scraper](https://github.com/edivya/MongoDB-Article-Scraper/blob/master/public/assets/images/Scraper.jpg)
 
 ## How It Works
 
@@ -13,16 +14,16 @@ Scrapes articles by clicking the "Scrape Articles" button. Once articles are loa
 
 ## Technologies Used
  
-** Node.js **
-** Express.js **
-**Handlebars.js**
-**MongoDB**
-**Mongoose**
+* Node.js
+* Express.js 
+* Handlebars.js
+* MongoDB
+* Mongoose
 
 ## NPM Packages
-** express**
-express-handlebars
-mongoose
-cheerio
-axios
-morgan
+* express
+* express-handlebars
+* mongoose
+* cheerio
+* axios
+* morgan

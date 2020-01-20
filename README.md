@@ -1,6 +1,6 @@
 # MongoDB-Article-Scraper
 
-(https://mongodb-article-scraper-divya.herokuapp.com)
+https://mongodb-article-scraper-divya.herokuapp.com
 
 ## Holistic Health Edition
 

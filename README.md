@@ -4,8 +4,6 @@ https://mongodb-article-scraper-divya.herokuapp.com
 
 ## Holistic Health Edition
 
-## Overview
-
 An app that scrapes articles from the GreenMedInfo website and lets users save articles and leave comments on the latest news.
 
 ## Screenshots
